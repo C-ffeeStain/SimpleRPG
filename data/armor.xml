@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<armorpieces>
+    <armor id="0" name="Wooden Helmet" defense="1.2">A basic wooden helmet.</armor>
+    <armor id="1" name="Wooden Chestplate" defense="1.2">A wooden chestplate.</armor>
+    <armor id="2" name="Wooden Leggings" defense="1.2">Primitive wooden leggings.</armor>
+    <armor id="3" name="Wooden Boots" defense="1.2">Simple wooden boots.</armor>
+    <armor id="4" name="Wooden Shield" defense="1.2">An old, wooden shield.</armor>
+</armorpieces>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<weapons>
+    <weapon id="0" name="Wooden Sword">A simple sword.</weapon>
+</weapons>
